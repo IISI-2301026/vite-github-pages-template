@@ -1,0 +1,1 @@
+# vite-github-pages-template
